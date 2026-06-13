@@ -4,7 +4,7 @@
 TFT Voice BIS is a voice-controlled companion app for Teamfight Tactics designed as an Overwolf overlay. Our core value is providing players with optimal item compositions (Best In Slot) through a highly efficient voice-driven interface. Currently, mic activation requires a manual click, but a global Push-to-Talk hotkey will be implemented in the production release for a true hands-free experience. Unlike traditional stat websites, this app minimizes disruption to the player's APM (Actions Per Minute) and visual focus during intense gameplay.
 
 ## 🎥 Demo Video
-[Watch the Demo on YouTube](https://youtu.be/9t6M66c75pc))
+[Watch the Demo on YouTube](https://youtu.be/9t6M66c75pc)
 
 ## ⚙️ How It Works
 1. **Voice Activation:** The user clicks the mic button and inputs a champion name and items via microphone (Push-to-Talk hotkey planned for full release).
